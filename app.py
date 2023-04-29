@@ -1,5 +1,5 @@
 # importing stuff from your Mom's kitchen
-# How to lose to to do list
+# How to lose to to do list maker
 
 import os 
 from apikey import apikey 
